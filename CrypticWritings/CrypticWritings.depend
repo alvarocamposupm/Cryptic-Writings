@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686072470 source:c:\users\34679\documents\github\cryptic-writings\crypticwritings\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
